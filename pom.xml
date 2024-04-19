@@ -19,6 +19,9 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
+		<build>
+			<finalName>irctc-api</finalName>
+		</build>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
